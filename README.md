@@ -43,7 +43,7 @@ For this project to be effective, you will need the following items for the Rasp
 
 
 
-![Image](https://github.com/1yc4n0rn0t/DarthWRT/DWRTpi/DarthWrt/SDcard.png)
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DWRTpi/DarthWrt/pi4.png)
 
 
 
@@ -61,21 +61,25 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 
 
-![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DarthWrt/etcher.png)
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DarthWrt/etcher.png](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DWRTpi/DarthWrt/etcher.png))
 
 
 
 4. An SD card to install the system
 
 
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DWRTpi/DarthWrt/SDcard.png)
+
+
 
 5. A USB for expandiing storage and downloading packages 
 
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DWRTpi/DarthWrt/usb.png)
 
 
 6. An ethernet extender or portable switch
 
-
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DWRTpi/DarthWrt/ethernet.png)
 
 
 
