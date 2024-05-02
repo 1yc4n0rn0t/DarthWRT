@@ -61,7 +61,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 
 
-![Image](https://github.com/justvincredible/DarthWRT/blob/main/DarthWrt/etcher.png)
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/blob/main/DarthWrt/etcher.png)
 
 
 
