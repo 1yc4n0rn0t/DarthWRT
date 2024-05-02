@@ -43,7 +43,7 @@ For this project to be effective, you will need the following items for the Rasp
 
 
 
-![Image](https://github.com/justvincredible/DarthWRT/blob/main/DarthWrt/pi4.png)
+![Image](https://github.com/1yc4n0rn0t/DarthWRT/DWRTpi/DarthWrt/SDcard.png)
 
 
 
